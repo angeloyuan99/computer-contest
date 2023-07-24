@@ -1,0 +1,72 @@
+Clas Plan:
+Introduction
+Entry test
+
+What we will learn in CC-2:
+ - implementation
+     - Array/string manipulation
+     - how to debug a program
+
+ - Basic Data structure
+     - prefix sum array/difference array
+     - list/set/map 
+     - stack/queue/deque
+ 
+ - Basic algorithms
+     - recursion, back tracking
+     - Binary search, sieve
+     - BFS/DFS
+
+    CCC(canadian computing competition)
+     - Junior level
+     - Senior level
+
+    5 questions, each one worth 15 points
+    75 points in total
+
+    Junior
+    question 1/2 straightforward
+    question 3/4 more challenging
+    question 5 advanced(recursion)
+    
+    Prizes: certificates/medals
+
+
+    Senior
+    question 1/2 Basic algorithms(equivalent to 1/2 in Junior)
+    question 3/4 Advanced algorithms
+    question 5 IOI level questions
+
+    Prizes: certificates/medals/invitations to stage 2
+
+    Why do computer competition
+
+     - Good logic thinking
+     - when applying to some departments in U of Waterloo, you may need to provide CCC results
+     - recognized by canadian universities, like U of test
+     - IOI medals: waterloo olympiad scholarship
+     - CCO offers waterloo offer + scholarship
+     - Cash prize and one free camp at U of Waterloo
+     - Join university ACM team
+     - job oppurtunities
+
+    languages
+
+     - CCC competitors are allowed to use any programming languages which is supported at their school
+     - CCO, must use C++/C/Java
+
+    is CCC hard?
+    
+     - Yes
+
+     - If you have no training, its impossible to solve 4 questions in 3 hours
+
+     - Even if you are in junior, its extremely hard to get perfect
+
+     Online Judges
+     - DMOJ
+     - Wcipeg
+
+
+Class plan: 
+take up homework

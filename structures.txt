@@ -1,0 +1,40 @@
+Structures
+
+Structure: a collection of related data items
+called Structureit is heterogenous in that it can be composed of data of different tyeps
+in contrast, array is homogenous since it can only contain only data of the same type
+
+Structures hold data that belong together
+examples:
+    student record: student id, name, major, gender, starting year
+    Bank account: account number, name, currency, balance
+In database applications, structures are called records
+
+structures is a class with only public members and methods
+
+individual components of a struct type are called members(or fields)
+Members can be of different tyeps(simple, array)
+
+struct Student Record{
+    char Name;
+    int Id;
+    char dept[5];
+    char gender
+}
+
+struct point{
+    double x, y;
+};
+point P;
+
+struct line{
+    point p1, p2;
+}
+line L;
+
+struct triangle{
+    point p1, p2, pe;
+};
+triangle T;
+
+array of structs
