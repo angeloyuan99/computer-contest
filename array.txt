@@ -1,3 +1,0 @@
-temp = mycards[randarray[i]];
-mycards[randarray[i]] = mycards[i];
-mycards[i] = temp;

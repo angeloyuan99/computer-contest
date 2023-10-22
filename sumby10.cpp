@@ -6,10 +6,8 @@ int main(){
     int total = 0;
     for(int i = 0; i <= k; i++){
         int temp = n;
-      //  cout << temp << "\n";
         for(int j = 0; j < i; j++){
             temp *= 10;
-  //          cout << temp << "\n";
         }
         total += temp;
         cout << total << "\n";

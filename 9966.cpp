@@ -23,7 +23,6 @@ bool same(int num){
     }
     for(int i = 0; i < word.length(); i++){
         if(chararr[i] != strarr[i]) return false;
-//            cout<<"Second False"<<endl;
     }
     return true;
 }
@@ -33,8 +32,6 @@ int main()
     cin>>bottom>>top;
     for(int i = bottom; i <= top; i++){
         if(same(i)) counter++;
-//        same(i);
-//        cout<<"i:  "<<i<<endl;
     }
     cout<<counter<<endl;
 }
